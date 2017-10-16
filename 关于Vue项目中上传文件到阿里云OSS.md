@@ -19,7 +19,7 @@ github: [alioss-js-upload](https://github.com/taosin/alioss-js-upload/tree/2.0)
 ```
 $ git clone https://github.com/taosin/alioss-js-upload.git   //克隆到本地
 $ cd alioss-js-upload        
-$npm install             //安装依赖
+$ npm install             //安装依赖
 $ node index.js      //启动server
 $ cd public      
 $ npm install

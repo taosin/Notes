@@ -21,16 +21,20 @@ const set = new Set(arr);
 #### Set 实例的属性
 * Set 实例有以下两个属性：
 
-- `Set.prototype.constructor`：构造函数，默认就是 Set 函数。
-- `Set.prototype.size`：返回 Set 实例的成员总数。
+-`Set.prototype.constructor`：构造函数，默认就是 Set 函数。
+
+-`Set.prototype.size`：返回 Set 实例的成员总数。
 
 
 #### Set 实例的方法
 * Set 实例的方法分为两大类：操作方法（用于操作数据）和遍历方法（用于遍历成员）。四个操作方法如下：
 
  -`add(value)`: 添加某个值，返回 Set 结构本身。
+ 
  -`delete(value)`: 删除某个值，返回一个布尔值，表示删除是否成功。
+ 
  -`has(value)`: 返回一个布尔值，表示该值是否为Set的成员。
+ 
  -`clear(value)`: 清楚所有成员，没有返回值。
 
 实例如下：

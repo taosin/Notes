@@ -12,4 +12,4 @@
 * 1.[关于js页面中oss在https下web直传的问题](https://github.com/taosin/Notes/blob/master/%E5%85%B3%E4%BA%8Ejs%E9%A1%B5%E9%9D%A2%E4%B8%ADoss%E5%9C%A8https%E4%B8%8Bweb%E7%9B%B4%E4%BC%A0%E7%9A%84%E9%97%AE%E9%A2%98.md)
 * 2.[使用axios发送POST请求时后端获取不到参数的问题](https://github.com/taosin/Notes/blob/master/%E4%BD%BF%E7%94%A8axios%E5%8F%91%E9%80%81POST%E8%AF%B7%E6%B1%82%E6%97%B6%E5%90%8E%E7%AB%AF%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E5%8F%82%E6%95%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
 * 3.[ES6之Set个人解读]()
-* 4.[ES6之Promise简单解读]()
+* 4.[ES6之Promise简单解读](https://github.com/taosin/Notes/blob/master/ES6%E4%B9%8BPromise%E7%AE%80%E5%8D%95%E8%A7%A3%E8%AF%BB.md)

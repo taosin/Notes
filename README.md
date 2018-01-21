@@ -13,3 +13,11 @@
 * 2.[使用axios发送POST请求时后端获取不到参数的问题](https://github.com/taosin/Notes/blob/master/%E4%BD%BF%E7%94%A8axios%E5%8F%91%E9%80%81POST%E8%AF%B7%E6%B1%82%E6%97%B6%E5%90%8E%E7%AB%AF%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E5%8F%82%E6%95%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
 * 3.[ES6之Set个人解读](https://github.com/taosin/Notes/blob/master/ES6%E4%B9%8BSet%E4%B8%AA%E4%BA%BA%E8%A7%A3%E8%AF%BB.md)
 * 4.[ES6之Promise简单解读](https://github.com/taosin/Notes/blob/master/ES6%E4%B9%8BPromise%E7%AE%80%E5%8D%95%E8%A7%A3%E8%AF%BB.md)
+
+
+> 笔记部分
+
+* 1.[App Shell模型](https://github.com/taosin/Notes/blob/master/App%20Shell模型.md)
+* 2.[git的一些常用命令行](https://github.com/taosin/Notes/blob/master/git的一些常用命令行.md)
+* 3.[使用axios发送POST请求时后端获取不到参数的问题](https://github.com/taosin/Notes/blob/master/使用axios发送POST请求时后端获取不到参数的问题.md)
+* 4.[前端面试知识点](https://github.com/taosin/Notes/blob/master/前端面试知识点.md)
